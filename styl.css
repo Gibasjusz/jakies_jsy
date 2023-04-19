@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(27, 31, 32);
+    color: white;
+    font-family: arial;
+}
+
+.hej {
+    background-color: rgb(46, 46, 49);
+    margin: 12px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.ekran {
+    background-color: rgb(46, 46, 49);
+    margin: 12px;
+    border-radius: 12px;
+    text-align: center;
+    height: 1450px;
+}
+
+#grub {
+    height: 350px;
+}
+
+.lis {
+    width: 350px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    background-color: rgb(26, 26, 26);
+    border-radius: 12px;
+    padding: 13px;
+}
+
+ol {
+    display: inline-block;
+}
+
+li {
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+#tyt {
+    cursor: pointer;
+}
+
+#tyt:hover {
+    color: rgb(99, 172, 214);
+    font-size: 160%;
+}
+
+.tab {
+    width: 350px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    background-color: rgb(26, 26, 26);
+    border-radius: 12px;
+    padding: 13px;
+}
+
+table, tr, th, td {
+    border: solid 1px white;
+}
+
+table {
+    display: inline-block;
+}
